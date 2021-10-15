@@ -16,6 +16,7 @@
   <ItemGroup>
     <ProjectReference Include="..\ConsoleA\ConsoleA.csproj" />
     <ProjectReference Include="..\FizzBuzz\FizzBuzz.csproj" />
+    <ProjectReference Include="..\Merkkijonolaskin\Merkkijonolaskin.csproj" />
   </ItemGroup>
 
 </Project>

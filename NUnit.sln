@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleA_Test", "ConsoleA_T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{6A578CC6-E026-4435-A65A-CCE2B58A1A95}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merkkijonolaskin", "Merkkijonolaskin\Merkkijonolaskin.csproj", "{425997FA-2DE5-4A64-AC8C-62E80EF3D833}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6A578CC6-E026-4435-A65A-CCE2B58A1A95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A578CC6-E026-4435-A65A-CCE2B58A1A95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A578CC6-E026-4435-A65A-CCE2B58A1A95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{425997FA-2DE5-4A64-AC8C-62E80EF3D833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{425997FA-2DE5-4A64-AC8C-62E80EF3D833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{425997FA-2DE5-4A64-AC8C-62E80EF3D833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{425997FA-2DE5-4A64-AC8C-62E80EF3D833}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
