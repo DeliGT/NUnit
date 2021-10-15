@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merkkijonolaskin", "Merkkijonolaskin\Merkkijonolaskin.csproj", "{425997FA-2DE5-4A64-AC8C-62E80EF3D833}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OmaProjekti", "OmaProjekti\OmaProjekti.csproj", "{5D1BCDD9-A502-4BEF-A06F-33115A60947D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{425997FA-2DE5-4A64-AC8C-62E80EF3D833}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{425997FA-2DE5-4A64-AC8C-62E80EF3D833}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{425997FA-2DE5-4A64-AC8C-62E80EF3D833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D1BCDD9-A502-4BEF-A06F-33115A60947D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D1BCDD9-A502-4BEF-A06F-33115A60947D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D1BCDD9-A502-4BEF-A06F-33115A60947D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D1BCDD9-A502-4BEF-A06F-33115A60947D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

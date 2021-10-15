@@ -17,6 +17,7 @@
     <ProjectReference Include="..\ConsoleA\ConsoleA.csproj" />
     <ProjectReference Include="..\FizzBuzz\FizzBuzz.csproj" />
     <ProjectReference Include="..\Merkkijonolaskin\Merkkijonolaskin.csproj" />
+    <ProjectReference Include="..\OmaProjekti\OmaProjekti.csproj" />
   </ItemGroup>
 
 </Project>
